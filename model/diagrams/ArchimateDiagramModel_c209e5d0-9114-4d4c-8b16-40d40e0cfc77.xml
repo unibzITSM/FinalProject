@@ -8,9 +8,9 @@
       id="826d1006-0372-47c2-995c-7457f3eae70f"
       targetConnections="0a6ac05f-da16-4eee-89f4-d15657ae9cff 1331e0f4-3ada-425e-babf-f87831388367 4345239b-3f59-4cf2-a305-08fd473dd9da">
     <bounds
-        x="460"
+        x="456"
         y="793"
-        width="120"
+        width="135"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -473,7 +473,7 @@
         x="471"
         y="570"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_366ccaf3-c21d-4c7b-945b-f14d5b4ec029.xml#366ccaf3-c21d-4c7b-945b-f14d5b4ec029"/>

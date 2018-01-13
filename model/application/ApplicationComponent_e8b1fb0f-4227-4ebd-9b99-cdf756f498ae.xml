@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer-Company information component"
+    id="e8b1fb0f-4227-4ebd-9b99-cdf756f498ae"
+    documentation="the following menages the comunication between the customer and the company, by sending appropriate information about the status of the ticket"/>

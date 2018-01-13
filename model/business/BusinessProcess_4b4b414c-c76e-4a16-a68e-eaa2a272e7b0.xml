@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recieve ticket"
+    id="4b4b414c-c76e-4a16-a68e-eaa2a272e7b0"
+    documentation="Client send a ticket to the company, complaining for the misuse of a certain component&#xD;&#xA;"/>

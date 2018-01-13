@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6ccf207a-8812-42ce-a474-fccf025c3b48"
+    documentation="damage caused by user or expired warranty&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_e33bb69c-0d52-450a-b96c-abce80a698e7.xml#e33bb69c-0d52-450a-b96c-abce80a698e7"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_96ad84b7-9dfc-4473-81f2-10a01d07dfab.xml#96ad84b7-9dfc-4473-81f2-10a01d07dfab"/>
+</archimate:TriggeringRelationship>

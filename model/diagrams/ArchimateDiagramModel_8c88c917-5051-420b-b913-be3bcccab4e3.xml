@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motivational drivers v2"
+    name="Motivational drivers - ok"
     id="8c88c917-5051-420b-b913-be3bcccab4e3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -634,9 +634,9 @@
           endY="-171"/>
       <bendpoints
           startX="-612"
-          startY="-471"
+          startY="-411"
           endX="96"
-          endY="-63"/>
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_9bd73008-24f6-4789-81b2-4f3bd006b536.xml#9bd73008-24f6-4789-81b2-4f3bd006b536"/>
